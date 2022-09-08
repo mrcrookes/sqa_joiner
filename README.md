@@ -1,2 +1,2 @@
 # sqa_plotly
-Place for some plotly graphs of official SQA public data
+Place for some code for some plotly graphs of official SQA public data
