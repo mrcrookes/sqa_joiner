@@ -1,5 +1,6 @@
 # sqa_plotly
-Place for some code for some plotly graphs of official SQA public data
+Place for some code to join together official SQA public data from:
+https://www.sqa.org.uk/sqa/105123.html
 
 Spreadsheet of output data:
 https://docs.google.com/spreadsheets/d/13G2zyOqPBqgng9F1__Dh0EUq1TaSY1oPnN08dmVmgE8/edit#gid=1267167075
