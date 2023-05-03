@@ -1,4 +1,4 @@
-# sqa_plotly
+# sqa_joiner
 Place for some code to join together official SQA public data from:
 https://www.sqa.org.uk/sqa/105123.html
 
