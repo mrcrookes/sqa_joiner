@@ -5,8 +5,8 @@ and<br />
 https://www.sqa.org.uk/sqa/105159.html<br />
 
 Spreadsheets of output data:<br />
-sqa_data_1986-2022_to_share<br />
-https://docs.google.com/spreadsheets/d/13G2zyOqPBqgng9F1__Dh0EUq1TaSY1oPnN08dmVmgE8/edit#gid=1267167075<br />
+sqa_grades_1986-2023_provisional<br />
+https://docs.google.com/spreadsheets/d/1NvzUNfxKizxBKA-iJf_Vug_PZESku5Wi3FYra_0BOEE/edit#gid=64805782<br />
 sqa_grade_boundaries_2016-2023<br />
 https://docs.google.com/spreadsheets/d/1zXsmcjhqYPRWxSUvdYYBhjm1L1k3fmYigRMSD9sNLbY/edit#gid=1009858456<br />
 sqa_national_ratings_2006-2018<br />
