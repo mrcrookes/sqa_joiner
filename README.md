@@ -16,7 +16,7 @@ sqa_national_ratings_2006-2018<br />
 https://docs.google.com/spreadsheets/d/15ZnRNkSTgOuzaKIO_VkG0zGE6rl8nlxp_DDbwgbJTDc/edit#gid=0<br />
 
 Link to FoI request for most recent National Ratings Data<br />
-(Many thanks to the teacher who shared the information from 2006-2018. Sorry I feel awful that I cannot remember who it was)<br />
+Many thanks to the teacher who shared the information from 2006-2018. Sorry I feel awful that I cannot remember who it was<br />
 https://www.whatdotheyknow.com/request/sqa_national_ratings_n5_higher_a<br />
 
 Simple site with links to some interactive plotly graphs:<br />
