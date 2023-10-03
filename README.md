@@ -1,7 +1,7 @@
 # sqa_joiner<br />
 Place for some code to join together official SQA public data<br />
 
-link to code<br />
+link to code:<br />
 https://github.com/mrcrookes/sqa_joiner<br />
 
 List of data sources:<br />
