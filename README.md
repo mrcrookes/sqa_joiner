@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1x8lc0okiZgtBYTBRAVc5vV9Jp935O3HU<br />
 Spreadsheets of output data:<br />
 
 sqa_grades_1986-2024_provisional:<br />
-https://docs.google.com/spreadsheets/d/1nzr7yW2ZkxNP9qeIPK5U4MhHeNNcQo8nHpwbVmt5rTQ/edit?gid=651565560<br />
+https://docs.google.com/spreadsheets/d/1zXsmcjhqYPRWxSUvdYYBhjm1L1k3fmYigRMSD9sNLbY/edit?gid=907715089#gid=907715089<br />
 sqa_grade_boundaries_2016-2024:<br />
 https://docs.google.com/spreadsheets/d/1zXsmcjhqYPRWxSUvdYYBhjm1L1k3fmYigRMSD9sNLbY/edit#gid=1009858456<br />
 sqa_national_ratings_2006-2023:<br />
