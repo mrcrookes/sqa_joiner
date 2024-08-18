@@ -1,5 +1,6 @@
 # sqa_joiner<br />
 Place for some code to join together official SQA public data<br />
+Alpha version - likely to be number of mistakes in code, any suggestions / corrections appreciated<br />
 
 link to code:<br />
 https://github.com/mrcrookes/sqa_joiner<br />
